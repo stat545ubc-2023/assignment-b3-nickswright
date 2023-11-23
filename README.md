@@ -1,6 +1,6 @@
 # Shiny App
 
-This shiny app allows users to examine the mass distribution of the Palmer penguins dataset. It shows a histogram of penguins' body mass
+This shiny app allows users to examine the mass distribution of the Palmer penguins dataset. It shows a histogram of penguins' body mass and a table with the entire dataset.
 For the purposes of this assignment I selected these 3 features to improve the app's utility:
   1. An interactive table in which the user can select the number of entries, search for entries, and order the data
   2. A button allowing users to download a .csv file of the table

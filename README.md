@@ -14,6 +14,8 @@ For Assignment B-3 I selected these 3 features:
   3. A plot of penguin mass in which users can select the range of data displayed and the color fill
 
 ### Assignment B-4
+[Shiny App B4 Link](https://nicholaswright.shinyapps.io/assignment-b4-nickswright/)
+
 For assignment B-4 I added these 3 features to further improve the app's utility
   1. The shinytheme spacelab to give the app a cleaner, more visually appealing background
   2. An image of the three penguin species to improve the aesthetic of the app and provide some context for the relative sizes of the 3 species in question

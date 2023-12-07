@@ -17,4 +17,4 @@ For assignment B-4 I added these 3 features to further improve the app's utility
   6. Two separate tabs for the plot and table using tabsetPanel to make the app less visually cluttered
 
 ### Credit
-This data is available for all R users using install.packages("palmerpenguins"). Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+This data is available for all R users using install.packages("palmerpenguins"). Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Penguin artwork by @allison_horst.

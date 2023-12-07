@@ -25,7 +25,7 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       h4("Use this plot to explore the distribution of mass among penguins."),
-    img(src = "lter_penguins.png", width = 250, height = 150), #Adds an image of the three penguin species and set size
+    img(src = "lter_penguins.png", width = 250, height = 150), #Adds an image of the three penguin species and sets size
     sliderInput("mass_slider", "Select a mass range",
                 min = 2700, max = 6300, value = c(4000, 5000)) #Adds a slider that can be used to set the range of data displayed in plot
     ),

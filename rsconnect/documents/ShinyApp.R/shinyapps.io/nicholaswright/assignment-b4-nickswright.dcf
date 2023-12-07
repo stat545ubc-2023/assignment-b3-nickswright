@@ -1,0 +1,12 @@
+name: assignment-b4-nickswright
+title: assignment-b4-nickswright
+username: nicholaswright
+account: nicholaswright
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10740709
+bundleId: 8018615
+url: https://nicholaswright.shinyapps.io/assignment-b4-nickswright/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

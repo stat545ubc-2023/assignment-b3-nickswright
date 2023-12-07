@@ -2,7 +2,7 @@
 
 This shiny app allows users to examine the mass distribution of the Palmer penguins dataset. It shows a histogram of penguins' body mass and a table with the entire dataset.
 
-[Shiny App Link] (https://nicholaswright.shinyapps.io/assignment-b3-nickswright/)
+[Shiny App Link](https://nicholaswright.shinyapps.io/assignment-b3-nickswright/)
 
 ### Assignment B-3
 For Assignment B-3 I selected these 3 features:

@@ -1,9 +1,10 @@
 # Shiny App
 
+[Shiny App Link](https://nicholaswright.shinyapps.io/assignment-b3-nickswright/)
+
 This shiny app allows users to examine the mass distribution of the Palmer penguins dataset. It contains two main features:
   1. A histogram that allows the user to explore the mass distribution of the entire Palmer penguin population
   2. A table that allows the user to examine, in detail, other characteristics of the Palmer penguins including species, island, sex, year, and 3 other morphological characteristics.
-[Shiny App Link](https://nicholaswright.shinyapps.io/assignment-b3-nickswright/)
 
 ### Assignment B-3
 For Assignment B-3 I selected these 3 features:
